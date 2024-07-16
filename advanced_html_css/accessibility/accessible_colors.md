@@ -1,6 +1,6 @@
 ### Introduction
 
-Although adding color to a page can make it more visually appealing, using the wrong color combination or relying solely on color to convey information can end up making things more difficult to perceive and understand for some users. This doesn't mean you have to limit yourself when choosing color schemes for a website, but it does mean you have to take extra care when actually *using* those colors.
+Although adding color to a page can make it more visually appealing, using the wrong color combination or relying solely on color to convey information can end up making things more difficult to perceive and understand for some users. This doesn't mean you have to limit yourself when choosing color schemes for a website, but it does mean you have to take extra care when actually _using_ those colors.
 
 ### Lesson overview
 
@@ -25,7 +25,7 @@ There are two different conformance levels for contrast ratios, both of which ha
 
 Both conformance levels have exceptions that don't need to follow the contrast ratio rules:
 
-- Incidental text, such as text that just *happens* to be within an image that has other significant visual content, or text that is purely decorative.
+- Incidental text, such as text that just _happens_ to be within an image that has other significant visual content, or text that is purely decorative.
 - Text that is part of an inactive or disabled user interface component, such as a button that is disabled and has a lowered opacity.
 - Text that is part of a logo or brand name.
 
@@ -43,7 +43,7 @@ Now that you know to take the contrast ratio into account when adding color for 
 
 The answer, by the way, is button 4. The image above is simulating achromatopsia, which is also known as total color blindness. This illustrates a key point when using color: <span id='color-information'>**you shouldn't use color alone to convey information**.</span> There may be exceptions where it's necessary to only use color, but generally you want to follow this rule.
 
-Let's look at another example. Let's say you want to create a form that has an instruction stating that required fields are indicated by red text. If a user is color blind or otherwise has difficulty telling some colors apart, having to rely solely on the color of this text can make it difficult or even impossible to perceive or operate the form. Instead of only using color, your form could indicate all required fields with red text and an asterisk:
+Let's look at another example, shall we. Let's say you want to create a form that has an instruction stating that required fields are indicated by red text. If a user is color blind or otherwise has difficulty telling some colors apart, having to rely solely on the color of this text can make it difficult or even impossible to perceive or operate the form. Instead of only using color, your form could indicate all required fields with red text and an asterisk:
 
 ![Conveying information with color](https://user-images.githubusercontent.com/70952936/125674026-9baafc58-2339-48f4-8b12-892375b87ad7.jpg)
 
@@ -59,4 +59,4 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web) from CSS-Tricks can be a great starting point for implementing a dark theme for your website. It covers different ways you can toggle a theme, how to take into account a user's preferred theme on their OS, and even saving a user's preference. Although providing a light and dark theme can be a great accessibility feature for users (not just an aesthetic preference), it can take a *lot* of work to implement, hence why it is considered an additional resource.
+- [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web) from CSS-Tricks can be a great starting point for implementing a dark theme for your website. It covers different ways you can toggle a theme, how to take into account a user's preferred theme on their OS, and even saving a user's preference. Although providing a light and dark theme can be a great accessibility feature for users (not just an aesthetic preference), it can take a _lot_ of work to implement, hence why it is considered an additional resource.
