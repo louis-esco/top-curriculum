@@ -1,6 +1,6 @@
 ### Introduction
 
-The question arises: How can we verify the correct implementation of a11y features? Are there any mistakes to be corrected, or potential improvements to be made? In this lesson, we will answer those questions to help push your a11y skills over the top.
+The question arises higher than you would expect: How can we verify the correct implementation of a11y features? Are there any mistakes to be corrected, or potential improvements to be made? In this lesson, we will answer those questions to help push your a11y skills over the top.
 
 ### Lesson overview
 
